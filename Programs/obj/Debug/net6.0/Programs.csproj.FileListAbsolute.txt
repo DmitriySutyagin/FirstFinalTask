@@ -1,0 +1,15 @@
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\bin\Debug\net6.0\Programs.exe
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\bin\Debug\net6.0\Programs.deps.json
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\bin\Debug\net6.0\Programs.runtimeconfig.json
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\bin\Debug\net6.0\Programs.dll
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\bin\Debug\net6.0\Programs.pdb
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\Programs.csproj.AssemblyReference.cache
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\Programs.AssemblyInfoInputs.cache
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\Programs.AssemblyInfo.cs
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\Programs.csproj.CoreCompileInputs.cache
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\Programs.dll
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\refint\Programs.dll
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\Programs.pdb
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\Programs.genruntimeconfig.cache
+C:\Users\Димон\Desktop\Mytraining\Новая папка\FirstFinalTask\Programs\obj\Debug\net6.0\ref\Programs.dll
