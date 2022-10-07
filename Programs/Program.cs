@@ -11,7 +11,7 @@ for (int i = 0; i < size; i++)
     string? a = Console.ReadLine();
     array[i] = a;
     if (b.Length >= a.Length) count++;
-    Console.WriteLine(count);
+    
 }
 Console.WriteLine();
 Console.WriteLine('[' + string.Join(",", array) + ']');
